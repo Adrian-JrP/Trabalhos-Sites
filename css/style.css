@@ -1,0 +1,131 @@
+/* para tudo */
+
+*{ 
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+/* para o titulo e barra com links internos no site */
+
+h1{
+    padding: 12px 0px 12px 4px;
+    font-size:40px;
+    text-align: center;
+
+
+}
+h1#ss{
+ display:none;
+}
+nav#menu{
+    display: block;
+    color:black;
+    background-color: rgb(216, 234, 250);
+    padding-bottom: 5px;
+    border-bottom: 2px black solid;
+    margin-left: -90px;
+    margin-right: -90px;
+    text-shadow: 0px 1px 2px black;
+
+}
+
+  nav#menu a {
+    color:black;
+    text-decoration: none;
+  }
+nav#menu a:hover{
+    text-decoration: underline;
+}
+
+/* corpo do site */
+
+h2{
+  padding-top:40px ;
+  padding-bottom:35px;
+  text-align: center;
+}
+#br {
+margin-left: 20px;
+margin-right: 230px;
+font-size: 20px;
+}
+#papagaio, .mantem{
+  margin-left: 20px;
+  margin-right: 150px;
+  font-size: 20px;
+  }
+  .vei{
+    margin-left: 70px;
+    margin-right: 47px;
+    font-size: 20px;
+    }
+  .sub{
+    margin-left: 100px;
+    padding: 20px;
+    font-size: 20px;
+  }
+  .sul{
+    margin-left: 100px;
+    padding-bottom: 50px;
+    font-size: 20px;
+  }
+  
+#se{
+  position: absolute;
+  top: 40px;
+  left: 1050px;
+  padding:-10;
+}
+#point{
+  position: absolute;
+  top: 518px;
+  left: 1250px;
+  padding-left: 10px;
+  padding-right:-200px ;
+}
+body{
+  background-color: #dddddd;
+
+}
+div#lui{
+margin-left: 90px;
+margin-right: 90px;
+background-color:#fff;
+text-shadow: 0px 1px 2px black;
+}
+#chefao{
+  font-size: 30px;
+}
+#ferro{
+position: absolute;
+top: 580px;
+left:120px;
+}
+#pascoa{
+  margin-left: 150px;
+  margin-right: 150px;
+  font-size: 20px;
+}
+footer#molenaohein{
+  border-top:2px solid #606060 ;
+  text-align: center;
+  background-color:rgb(216, 234, 250);
+  margin-left: -90px;
+  margin-right: -90px;
+  font-size: 15px;
+  padding: 10px;
+  padding-bottom: 20px;
+}
+h4{
+  text-align: center;
+  font-size:25px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+#calvo{
+  position: absolute;
+  top:1753px;
+  left:28px;
+  
+}
